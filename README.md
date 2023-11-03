@@ -1,5 +1,7 @@
 # Capstone_Project_Supervised_ML_Regression-Yes_Bank_Stock_Closing_Price_Prediction
+
 ![image](https://user-images.githubusercontent.com/95841292/202706607-372b1391-c041-40a0-8528-c51be84f60c9.png)
+
 This project aims to address the challenge of predicting the closing price of Yes Bank's stock, which is a crucial task for stakeholders, investors, and market participants. Yes Bank, as a prominent private sector bank in India, has encountered significant hurdles in recent years, including a substantial number of bad loans and involvement in fraud cases. These challenges have led to regulatory intervention by the Reserve Bank of India, making the prediction of Yes Bank's stock prices complex and uncertain.
 ## Problem Statement
 The main objective of this project is to develop a robust and accurate predictive model that can effectively forecast the closing price of Yes Bank's stock. The challenge lies in understanding and capturing the complex dynamics and trends in the stock prices, considering various factors such as the historical trend of an increasing price followed by a sudden decline after 2018.
